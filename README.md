@@ -1,5 +1,5 @@
 # Git & GitHub Command Cheat Sheet
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/Vwg2m6h4ySo)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Vwg2m6h4ySo/0.jpg)](https://youtu.be/Vwg2m6h4ySo)
 This repository contains a handy cheat sheet of essential Git and GitHub commands with practical examples.
 
 ## Getting Started
